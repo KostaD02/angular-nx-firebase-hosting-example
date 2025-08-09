@@ -44,3 +44,8 @@ Thumbs.db
 .github/instructions/nx.instructions.md
 
 .angular
+
+# Firebase
+
+.firebase
+firebase-debug.log
